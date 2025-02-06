@@ -1,0 +1,6 @@
+@TTATAutomation_HostAddress = http://localhost:5110
+
+GET {{TTATAutomation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
